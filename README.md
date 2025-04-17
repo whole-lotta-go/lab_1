@@ -1,4 +1,4 @@
-# Assignment 3 for the Software Architecture course
+# Assignment 1 for the Software Architecture course
 
 This assignment was done by:
 - [Danylo Pistriuga](https://github.com/MINEZERI/)
